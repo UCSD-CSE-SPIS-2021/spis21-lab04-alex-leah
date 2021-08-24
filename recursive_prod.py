@@ -1,5 +1,5 @@
 # a = number you're using
-# b = how many times you adding a to itself
+# b = how many times you adding a to itself # 
 
 def rec_product(a, b):
 
